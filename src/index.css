@@ -22,10 +22,10 @@ body {
         Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #fafafa;
+    background-color: #96c1cc;
     color: #212121;
     line-height: 1.5;
-    background: linear-gradient(to right, #E2E2E2, #C9D6FF);
+    background: linear-gradient(to right, #4cabd7, #056bbe);
 }
 
 img {
